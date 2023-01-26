@@ -1,2 +1,1 @@
-# new text
-new style
+style
